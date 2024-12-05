@@ -1,0 +1,18 @@
+{
+    "students": {
+        "student1": {
+            "borrowed": ""
+        },
+        "student2": {
+            "borrowed": ""
+        }
+    },
+    "books": {
+        "book1": {
+            "status": "available"
+        },
+        "book2": {
+            "status": "available"
+        }
+    }
+}
